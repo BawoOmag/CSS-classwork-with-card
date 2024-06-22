@@ -1,0 +1,118 @@
+p{
+    /* font-size: 18px;
+    color: magenta;
+    font-weight: bold;  */
+    /* text-decoration: line-through; */
+    /* text-align: center;
+    font-style: italic; */
+    /* line-height: 50px; */
+    /* word-spacing: 30px; */
+    /* letter-spacing: 30px; */
+    /* font-family: danfo; */
+}
+h1{
+    font-family: nunito;
+    text-align: center;
+}
+.Bawo {
+    font: size 50px;
+    font-weight: bolder;
+    color: brown;
+    font-style: normal;
+
+}
+
+#Bawoo{
+    color: yellow;
+    font-size: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+
+
+}
+
+.card{
+    border: 0px solid green;
+    width: 300px;
+    height: auto;
+    background: whitesmoke;
+    border-radius: 10px;
+    font-family: sans-serif;
+    font-size: 13px;
+    font-weight: 10px;
+    /* padding: 30px; */
+    /* padding-left: 20px; */
+    /* padding-right: 30px; */
+    /* padding: 20px 40px; */
+
+    /* padding within box in a clockwise set of values */
+    padding: 20px 20px 20px 20px;
+
+    /* Margins around box in a top-right-bottom-left set of values */
+    margin: 20px 30px 30px 20px;
+}
+
+.product-img{
+    width: 100%;
+    height: 280px;
+    border-radius: 20px;
+}
+
+button{
+    width: 120%;
+    padding: 10px 0px;
+    /* background-color: gray; */
+    background-image: linear-gradient(right, red, yellow);
+    box-shadow: 5px 5px 5px lightgray;
+    border-radius: 10px;
+}
+
+button{
+    width: 100%;
+    padding: 10px 0px;
+    background-color: gray;
+    /* background-image: linear-gradient(right, red, yellow); */
+    box-shadow: 5px 5px 5px lightgray;
+    border-radius: 10px;
+}
+
+
+
+.card1{
+    border:0px;
+    width: 310px;
+    height: auto;
+    background: rgb(242, 242, 242);
+    border-radius: 10px;
+    padding: 10px;
+    /* padding: 10px 30px 30px 50px; */
+
+    margin: 0px 0px 20px 20px;
+    font-family: quicksand;
+    font-size: 13px;
+    font: weight 300px;
+    line-height: 15px;
+
+}
+
+.product-img1{
+    width: 290px;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+button
+{
+    width: 100%;
+    padding: 10px 0px;
+    background-color: rgb(255, 132, 0);
+    border-radius: 7px;
+    border: 0;
+}
+
+button:hover{
+    background:scroll;
+    /* background-color: green; */
+    background-color: rgb(225, 120, 6);
+    opacity: 100;
+    cursor: pointer;
+}
